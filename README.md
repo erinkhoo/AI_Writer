@@ -1,6 +1,8 @@
 Overview
 ============
-This code will generate a story based on an image that you input. More information can be found in the [original repo](https://github.com/ryankiros/neural-storyteller). This the code for 'Build an AI Writer' on [Youtube](https://youtu.be/x24VEUEph0Q)
+Most up-to-date work to move the execution of this model to the cloud is on this [Colab](https://colab.research.google.com/drive/1jMfPKdp00bFtS9LoSUHXoQEZ8sRH37-R)
+
+The code will generate a story based on an image that you input. More information can be found in the [original repo](https://github.com/ryankiros/neural-storyteller). This the code for 'Build an AI Writer' on [Youtube](https://youtu.be/x24VEUEph0Q)
 
 <img src="https://github.com/ryankiros/neural-storyteller/blob/master/images/ex1.jpg" height="220px" align="left">
 
